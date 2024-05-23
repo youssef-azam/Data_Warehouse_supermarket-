@@ -1,0 +1,42 @@
+Sales Analysis:
+
+What are the total sales revenue and quantity sold for each product category?
+How do sales vary over time? Can we identify seasonal trends or patterns?
+Which branches are the top performers in terms of sales revenue and profit margin?
+Customer Behavior Analysis:
+
+What are the demographics of our most valuable customers?
+How does customer feedback correlate with sales performance and customer retention?
+Are there any notable trends or patterns in customer purchasing behavior?
+Inventory Management:
+
+What is the current inventory level of each product in each branch?
+How does inventory turnover vary across different product categories and branches?
+Are there any products with consistently low or high inventory levels?
+Supplier Performance:
+
+Which suppliers provide the most products, and what is the average delivery time for their orders?
+How does the quality of products supplied by different suppliers impact customer satisfaction and feedback?
+Can we identify opportunities to optimize procurement processes based on supplier performance metrics?
+Employee Performance:
+
+What is the sales performance of employees in each branch and department?
+Are there any correlations between employee ratings, salaries, and sales performance?
+How do employee work hours and workload impact sales productivity?
+Promotion Effectiveness:
+
+Which promotions result in the highest increase in sales revenue, and in which regions are they most effective?
+Can we quantify the ROI (Return on Investment) for each promotion campaign?
+How do promotional activities impact customer engagement and loyalty?
+
+
+
+
+--------------------------------------------------------
+What is the average sales quantity this month for each
+product in each category?
+----
+Who are the top 10 sales representatives and who are their
+managers? What were their sales for the products they sold
+in the first and last fiscal quarters?
+----
